@@ -5,5 +5,5 @@ members = ["Bob", "Tom", "Ken"]
 """
 
 members = ["Bob", "Tom", "Ken"]
-print(0)
-print(1)
+
+print(members[:2])
